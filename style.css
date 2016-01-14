@@ -1,10 +1,21 @@
 .box1 {
     background-color: lightblue;
-height: 100px;
+height: 200px;
 }
 
 .box2 {
-    background-color: lightpink;
-height: 100px;
+    background-color: pink;
+height: 200px;
 }
 
+
+}
+.jumbotron {
+    background-color: lightblue;
+
+
+
+
+
+
+}
