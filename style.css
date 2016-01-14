@@ -1,16 +1,21 @@
 .box1 {
-    background-color: lightblue;
+margin-top: 2%;
+
 height: 200px;
 }
 
 .box2 {
-    background-color: pink;
+margin-top: 2%;
+
 height: 200px;
 }
 
-
+.box3 {
+margin-top: 3%;
+height: 70px;
 }
-.jumbotron {
-    background-color: lightblue;
 
-}
+#kontener { 
+    margin-left: 10%;
+    margin-right: 10%;
+    }
