@@ -15,7 +15,29 @@ margin-top: 3%;
 height: 70px;
 }
 
+.box4 {
+margin-top: 3%;
+height: 70px;
+}
+
 #kontener { 
     margin-left: 10%;
     margin-right: 10%;
     }
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 5px;
+  width: auto;
+}
+
+.navbar-default {
+    background-color: white;
+}
+       
+.navbar-default .navbar-nav > li > a {
+    color: dimgrey;
+}
