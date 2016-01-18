@@ -1,23 +1,19 @@
 .box1 {
 margin-top: 2%;
 
-height: 200px;
 }
 
 .box2 {
 margin-top: 2%;
 
-height: 200px;
 }
 
 .box3 {
 margin-top: 3%;
-height: 70px;
 }
 
 .box4 {
 margin-top: 3%;
-height: 70px;
 }
 
 #kontener { 
@@ -39,5 +35,15 @@ height: 70px;
 }
        
 .navbar-default .navbar-nav > li > a {
-    color: dimgrey;
+    color: pink;
+}
+
+.navbar-default .navbar-nav > li > a > .active {
+    color: green;
+}
+
+
+p {
+    color:green;
+    margin-top: 2%;
 }
