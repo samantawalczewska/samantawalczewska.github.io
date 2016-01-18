@@ -38,8 +38,14 @@ margin-top: 3%;
     color: pink;
 }
 
-.navbar-default .navbar-nav > li > a > .active {
+.navbar-default .navbar-nav > li.active > a {
     color: green;
+    background: pink;
+}
+
+.navbar-default .navbar-nav > li.active > a:hover {
+    color: pink;
+    background: green;
 }
 
 
@@ -47,3 +53,10 @@ p {
     color:green;
     margin-top: 2%;
 }
+
+
+a.thumbnail {
+    margin-top: 10%;
+}
+
+
