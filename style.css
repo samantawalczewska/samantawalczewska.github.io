@@ -1,39 +1,38 @@
 .box1 {
-margin-top: 2%;
-
+    margin-top: 2%;
 }
 
 .box2 {
-margin-top: 2%;
-
+    margin-top: 2%;
 }
 
 .box3 {
-margin-top: 3%;
+    margin-top: 3%;
 }
 
 .box4 {
-margin-top: 3%;
+    margin-top: 3%;
 }
 
-#kontener { 
+#kontener {
     margin-left: 10%;
     margin-right: 10%;
-    }
+}
 
 .navbar-brand {
-  padding: 0px;
+    padding: 0px;
 }
+
 .navbar-brand>img {
-  height: 100%;
-  padding: 5px;
-  width: auto;
+    height: 100%;
+    padding: 5px;
+    width: auto;
 }
 
 .navbar-default {
     background-color: white;
 }
-       
+
 .navbar-default .navbar-nav > li > a {
     color: pink;
 }
@@ -48,15 +47,23 @@ margin-top: 3%;
     background: green;
 }
 
-
 p {
-    color:green;
+    color: green;
     margin-top: 2%;
 }
-
 
 a.thumbnail {
     margin-top: 10%;
 }
 
+.carousel-indicators li {
+    background: 0000;
+}
 
+.carousel-indicators .active {
+    background: white;
+}
+
+.carousel-control.right {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
+}
