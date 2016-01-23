@@ -34,21 +34,27 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: pink;
+    color: black;
 }
 
 .navbar-default .navbar-nav > li.active > a {
-    color: green;
-    background: pink;
+    color: white;
+    background: lightseagreen;
 }
 
 .navbar-default .navbar-nav > li.active > a:hover {
-    color: pink;
-    background: green;
+    color: white;
+    background: lightseagreen;
+}
+
+h3 {
+    
+        color: lightseagreen;
+
 }
 
 p {
-    color: green;
+    color: black;
     margin-top: 2%;
 }
 
@@ -70,12 +76,12 @@ a.thumbnail {
 }
 
 .header {
-        color: #36A0FF;
+        color: lightseagreen;
         font-size: 27px;
         padding: 10px;
     }
 
     .bigicon {
         font-size: 35px;
-        color: #36A0FF;
+        color: lightseagreen;
     }
