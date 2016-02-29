@@ -20,13 +20,17 @@
 }
 
 .navbar-brand {
-    padding: 0px;
+    padding: 1px;
+}
+.navbar-fb>img {
+width: 20px;
 }
 
 .navbar-brand>img {
     height: 100%;
     padding: 5px;
     width: auto;
+    margin-left: 35%;
 }
 
 .navbar-default {
@@ -37,14 +41,10 @@
     color: black;
 }
 
-.navbar-default .navbar-nav > li.active > a {
-    color: white;
-    background: lightseagreen;
-}
 
 .navbar-default .navbar-nav > li.active > a:hover {
-    color: white;
-    background: lightseagreen;
+    color: lightseagreen;
+    
 }
 
 h3 {
