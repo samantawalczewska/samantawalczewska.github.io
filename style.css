@@ -58,6 +58,44 @@ p {
     margin-top: 2%;
 }
 
+.join  {
+    margin-top: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.aktualnosci {
+    margin-top: 0px;
+    
+}
+.aktualnosci h3 {
+    margin-top: 40px;
+}
+
+.partnerzy h3 {
+    margin-top: 40px;
+}
+
+.regulamin h3 {
+    margin-top: 40px;
+}
+.regulamin a {
+    margin-top: 100px;
+}
+
+.kontakt h3 {
+    margin-top: 40px;
+}
+
+.PDF a{
+font-weight: bold;
+color: black;
+text-decoration: underline;}
+
+a.navbar-fb img {
+    margin-left: 20px;
+}
+
 a.thumbnail {
     margin-top: 10%;
 }
