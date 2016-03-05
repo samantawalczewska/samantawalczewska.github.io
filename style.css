@@ -50,6 +50,7 @@ width: 20px;
 h3 {
     
         color: lightseagreen;
+        font-weight: bold;
 
 }
 
@@ -123,3 +124,10 @@ a.thumbnail {
         font-size: 35px;
         color: lightseagreen;
     }
+
+
+.kafle {
+margin-top: 5%;
+    align-items: center;
+}
+
