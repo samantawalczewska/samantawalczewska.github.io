@@ -172,7 +172,7 @@ a.thumbnail {
     float: left;
 }
 
-.footer-distributed .footer-links {
+.footer-newsletter .footer-links {
     color: #ffffff;
     margin: 0 0 10px;
     padding: 0;
@@ -191,7 +191,7 @@ a.thumbnail {
     text-decoration: underline;
 }
 
-.footer-distributed .footer-company-name {
+.footer-newsletter .footer-company-name {
     color: white;
     font-size: 14px;
     font-weight: normal;
