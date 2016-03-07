@@ -22,8 +22,9 @@
 .navbar-brand {
     padding: 1px;
 }
+
 .navbar-fb>img {
-width: 20px;
+    width: 20px;
 }
 
 .navbar-brand>img {
@@ -41,17 +42,13 @@ width: 20px;
     color: black;
 }
 
-
 .navbar-default .navbar-nav > li.active > a:hover {
     color: lightseagreen;
-    
 }
 
 h3 {
-    
-        color: lightseagreen;
-        font-weight: bold;
-
+    color: lightseagreen;
+    font-weight: bold;
 }
 
 p {
@@ -59,7 +56,7 @@ p {
     margin-top: 2%;
 }
 
-.join  {
+.join {
     margin-top: 70px;
     text-align: center;
     font-weight: bold;
@@ -67,8 +64,8 @@ p {
 
 .aktualnosci {
     margin-top: 0px;
-    
 }
+
 .aktualnosci h3 {
     margin-top: 40px;
 }
@@ -80,6 +77,7 @@ p {
 .regulamin h3 {
     margin-top: 40px;
 }
+
 .regulamin a {
     margin-top: 100px;
 }
@@ -88,14 +86,15 @@ p {
     margin-top: 40px;
 }
 
-.PDF a{
-font-weight: bold;
-color: black;
-text-decoration: underline;}
+.PDF a {
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
 
 .PDF p {
-font-weight: bold;
-color: black;
+    font-weight: bold;
+    color: black;
     float: right;
 }
 
@@ -117,163 +116,190 @@ a.thumbnail {
 
 .carousel-control.right {
     background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
-    
 }
 
 .header {
-        color: lightseagreen;
-        font-size: 27px;
-        padding: 10px;
-    }
+    color: lightseagreen;
+    font-size: 27px;
+    padding: 10px;
+}
 
-    .bigicon {
-        font-size: 35px;
-        color: lightseagreen;
-    }
-
+.bigicon {
+    font-size: 35px;
+    color: lightseagreen;
+}
 
 .kafle {
-margin-top: 5%;
+    margin-top: 5%;
     align-items: center;
 }
 
-
-.footer-distributed{
-	background-color: lightseagreen;
-	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
-	box-sizing: border-box;
-	width: 100%;
-	font: bold 16px sans-serif;
-	text-align: left;
-
-	padding: 50px 60px;
-	margin-top: 80px;
-	overflow: hidden;
+.aktualnosci p {
+    font-weight: bold;
+    color: black;
+    float: right;
+    margin-top: 5%;
 }
+
+.footer-newsletter {
+    background-color: lightseagreen;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    font: bold 16px sans-serif;
+    text-align: left;
+    padding: 50px 60px;
+    margin-top: 80px;
+    overflow: hidden;
+}
+
+.footer-distributed {
+    background-color: aliceblue;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    font: bold 16px sans-serif;
+    text-align: left;
+    padding: 50px 60px;
+    margin-top: 80px;
+    overflow: hidden;
+}
+
 
 /* Footer left */
 
-.footer-distributed .footer-left{
-	float: left;
+.footer-distributed .footer-left {
+    float: left;
 }
 
-.footer-distributed .footer-links{
-	color:  #ffffff;
-	margin: 0 0 10px;
-	padding: 0;
+.footer-distributed .footer-links {
+    color: #ffffff;
+    margin: 0 0 10px;
+    padding: 0;
 }
 
-.footer-distributed .footer-links a{
-	display:inline-block;
-	line-height: 1.8;
-	text-decoration: none;
-	color:  inherit;
+.footer-distributed .footer-links a {
+    display: inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color: inherit;
 }
 
-.footer-distributed .footer-company-name{
-	color:  white;
-	font-size: 14px;
-	font-weight: normal;
-	margin: 0;
+.footer-distributed .footer-napis a {
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+}
+
+.footer-distributed .footer-company-name {
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
 }
 
 
 /* Footer right */
 
-.footer-distributed .footer-right{
-	float: right;
+.footer-distributed .footer-right {
+    float: right;
 }
+
+.footer-distributed .footer-right h4 {
+    float: right;
+    font-weight: bold;
+    color: black;
+}
+
+.footer-distributed .footer-right P {
+    float: right;
+    font-weight: 100;
+    color: black;
+}
+
 
 /* The search form */
 
-.footer-distributed form{
-	position: relative;
+.footer-distributed form {
+    position: relative;
 }
 
-.footer-distributed form input{
-	display: block;
-	border-radius: 3px;
-	box-sizing: border-box;
-	background-color:  white;
-	border: none;
-
-	font: inherit;
-	font-size: 14px;
-	font-weight: normal;
-	color:  #d1d2d2;
-
-	width: 500px;
-	padding: 18px 50px 18px 18px;
+.footer-distributed form input {
+    display: block;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background-color: white;
+    border: none;
+    font: inherit;
+    font-size: 12px;
+    font-weight: normal;
+    color: black;
+    width: 300px;
+    padding: 10px 50px 10px 10px;
 }
 
-.footer-distributed form input:focus{
-	outline: none;
+.footer-distributed form input:focus {
+    outline: none;
 }
+
 
 /* Changing the placeholder color */
 
 .footer-distributed form input::-webkit-input-placeholder {
-	color:  #5c666b;
+    color: #5c666b;
 }
 
 .footer-distributed form input::-moz-placeholder {
-	opacity: 1;
-	color:  #5c666b;
+    opacity: 1;
+    color: #5c666b;
 }
 
-.footer-distributed form input:-ms-input-placeholder{
-	color:  #5c666b;
+.footer-distributed form input:-ms-input-placeholder {
+    color: #5c666b;
 }
+
 
 /* The magnify glass icon */
 
-.footer-distributed form i{
-	width: 18px;
-	height: 18px;
-	position: absolute;
-	top: 16px;
-	right: 18px;
-
-	color: #d1d2d2;
-	font-size: 18px;
+.footer-distributed form i {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 16px;
+    right: 18px;
+    color: #d1d2d2;
+    font-size: 18px;
 }
+
 
 /* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 1000px) {
-
-	.footer-distributed form input{
-		width: 300px;
-	}
-
+    .footer-distributed form input {
+        width: 300px;
+    }
 }
 
 @media (max-width: 800px) {
-
-	.footer-distributed{
-		padding: 30px;
-		text-align: center;
-		font: bold 14px sans-serif;
-	}
-
-	.footer-distributed .footer-company-name{
-		margin-top: 10px;
-		font-size: 12px;
-	}
-
-	.footer-distributed .footer-left,
-	.footer-distributed .footer-right{
-		float: none;
-		max-width: 150px;
-		margin: 0 auto;
-	}
-
-	.footer-distributed .footer-left{
-		margin-bottom: 20px;
-	}
-
-	.footer-distributed form input{
-		width: 20%;
-	}
-
+    .footer-distributed {
+        padding: 30px;
+        text-align: center;
+        font: bold 14px sans-serif;
+    }
+    .footer-distributed .footer-company-name {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .footer-distributed .footer-left,
+    .footer-distributed .footer-right {
+        float: none;
+        max-width: 150px;
+        margin: 0 auto;
+    }
+    .footer-distributed .footer-left {
+        margin-bottom: 20px;
+    }
+    .footer-distributed form input {
+        width: 100%;
+    }
 }
